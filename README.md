@@ -32,7 +32,7 @@ pip install colorama
 
 ### **Download & Run**  
 ```bash
-git clone https://github.com/your-repo/NecroFlood.git
+git clone https://github.com/P70-ops/red-Hammer-mini-.git
 cd redHammer_mini
 python redHammer_mini.py
 ```
