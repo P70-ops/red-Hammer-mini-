@@ -92,7 +92,7 @@ python redHammer_mini.py
 ### **📁 Project Structure**  
 ```
 NecroFlood/  
-├──  redHammer_mini.py      # Main attack script
+├── redHammer_mini.py      # Main attack script
 ├── README.md          # This file
 └── requirements.txt   # Dependencies
 ```
