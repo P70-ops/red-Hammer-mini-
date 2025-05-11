@@ -1,0 +1,4 @@
+# NecroFlood - Demonic DDoS Attack Tool
+# Required dependencies
+colorama==0.4.6
+# Python 3.10+ recommended
